@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fibonacci_Library
+namespace FibonacciLibrary
 {
     public class Fibonacci_Class
     {

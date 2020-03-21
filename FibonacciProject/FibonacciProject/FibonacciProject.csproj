@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="Fibonacci_Library">
-      <HintPath>..\..\..\..\Users\sibyl\source\repos\Fibonacci_Library\Fibonacci_Library\obj\Debug\netstandard2.0\Fibonacci_Library.dll</HintPath>
+    <Reference Include="FibonacciLibrary">
+      <HintPath>..\FibonacciLibrary\obj\Debug\netstandard2.0\FibonacciLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 
