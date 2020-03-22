@@ -1,5 +1,6 @@
 ﻿using System;
-using FibonacciLibrary;
+//using FibonacciLibrary;
+using FibonacciProject.Library;
 
 namespace FibonacciProject
 {
@@ -17,4 +18,6 @@ namespace FibonacciProject
             For_Console.PrintArray("Fibonacci_array", Fibonacci_array);
         }
     }
+
+    
 }
